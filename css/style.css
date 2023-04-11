@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: darkgray;
+}
+/*
+h1{
+    color: red;
+}
+nav{background-color: white;}
+main{background-color: white;}
+footer{background-color: cyan;}
+*/
+
+/*estilos a clases*/
+
+.titulo{
+    text-align: center;
+    font-size: 36px;
+    text-transform: uppercase;
+    color: red;
+}
+
+.sirve{
+    border: 1px solid;
+    /* margin: 20px 100px 20px 50px; */
+    margin: 20px 100px;
+    padding: 15px 10px 0px 50px;
+    height: 250px;
+}
